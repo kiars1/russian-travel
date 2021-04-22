@@ -21,4 +21,4 @@
 
 **Страница на Git Page**
 
-* [Ссылка на макет в Figma](https://kiars1.github.io/russin-travel)
+* [Ссылка на Git Page](https://kiars1.github.io/russin-travel)
