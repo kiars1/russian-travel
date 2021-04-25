@@ -26,13 +26,12 @@
 
 @media screen and (max-width: 658px) {
 .place__paragraph  {
-  margin: 25px 0 0 0;
   grid-column: 1;
   max-width: 90%;
   margin: 25px auto auto auto;
   }
 
 .place__paragraph:nth-child(even) {
-  margin: 25px auto 0px auto;
+  margin: 25px auto auto auto;
   }
 }
