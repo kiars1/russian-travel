@@ -9,12 +9,12 @@
 
 @media screen and (max-width: 768px) {
 .intro__subtitle {
-  width: 100%;
+  max-width: 100%;
   }
 }
 
 @media screen and (max-width: 750px) {
 .intro__subtitle {
-  width: 96%;
+  max-width: 96%;
   }
 }
