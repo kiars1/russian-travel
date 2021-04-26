@@ -16,6 +16,7 @@
 .places {
   max-width: 93.75%;
   grid-row-gap: 72px;
+  padding-top: 88px;
   }
 }
 
@@ -23,6 +24,7 @@
 .places {
   max-width: 100%;
   grid-row-gap: 50px;
+  padding-top: 64px;
   }
 }
     

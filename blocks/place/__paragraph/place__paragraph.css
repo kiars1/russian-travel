@@ -32,6 +32,6 @@
   }
 
 .place__paragraph:nth-child(even) {
-  margin: 25px auto auto auto;
+  margin: 32px auto auto auto;
   }
 }
